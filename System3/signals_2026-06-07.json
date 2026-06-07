@@ -9406,5 +9406,32 @@
     "rr": "1:2",
     "bullish_score": 3,
     "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T20:29:23.909526+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 592.99,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
   }
 ]
