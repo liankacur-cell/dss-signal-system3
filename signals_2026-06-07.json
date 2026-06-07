@@ -1,0 +1,7142 @@
+[
+  {
+    "timestamp": "2026-06-07T00:42:27.183017+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 60777.5,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-07T00:42:30.517778+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1566.0,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-07T00:42:33.602051+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62.3,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-07T00:42:36.811793+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.0926,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-07T00:42:39.866073+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08179,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-07T00:42:43.173313+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 574.32,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-07T00:42:46.498746+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.157,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-07T00:42:49.828953+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026746,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-07T00:42:53.065455+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7198,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-07T00:42:56.116901+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.659,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-07T01:01:38.431451+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60746.5,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 0,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T01:01:41.690608+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1563.69,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T01:01:44.750164+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62.0,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T01:01:47.951187+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.0882,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 0,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T01:01:50.991819+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08166,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T01:01:54.227920+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 573.96,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 0,
+    "bearish_score": 3
+  },
+  {
+    "timestamp": "2026-06-07T01:01:57.428914+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1572,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T01:02:00.785683+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026705,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T01:02:03.996901+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7186,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T01:02:07.242229+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.655,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T08:18:19.551388+07:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 61411.6,
+    "sl": 59569.25,
+    "tp": 65096.3,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T08:18:22.790636+07:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 1588.71,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T08:18:25.840852+07:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 63.32,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T08:18:29.024786+07:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 1.1068,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T08:18:32.040225+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 0.08,
+    "sl": 0.08,
+    "tp": 0.09,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T08:18:35.291840+07:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 579.68,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T08:18:38.529776+07:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 0.1607,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T08:18:41.923924+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 0.002726,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T08:18:45.132519+07:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.74,
+    "sl": 0.72,
+    "tp": 0.78,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T08:18:48.386033+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.764,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:04:08.259200+07:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 61476.1,
+    "sl": 59631.82,
+    "tp": 65164.67,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:04:11.371001+07:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 1589.21,
+    "sl": 1541.53,
+    "tp": 1684.56,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:04:14.498252+07:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 63.66,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:04:17.731438+07:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 1.12,
+    "sl": 1.08,
+    "tp": 1.18,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:04:21.142818+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08,
+    "sl": 0.08,
+    "tp": 0.09,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:04:24.439488+07:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 580.0,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:04:27.850452+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 0.0,
+    "sl": 0.0,
+    "tp": 0.0,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:04:31.752220+07:00",
+    "pair": "ADAUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.16,
+    "sl": 0.16,
+    "tp": 0.17,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:04:35.252075+07:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.75,
+    "sl": 0.73,
+    "tp": 0.79,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:04:38.549170+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 6.78,
+    "sl": 6.58,
+    "tp": 7.19,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:50:03.512385+07:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 61454.1,
+    "sl": 59610.48,
+    "tp": 65141.35,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:50:06.784131+07:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 1591.55,
+    "sl": 1543.8,
+    "tp": 1687.04,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:50:10.560501+07:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 63.52,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:50:13.869519+07:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 1.12,
+    "sl": 1.09,
+    "tp": 1.19,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:50:17.182296+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08,
+    "sl": 0.08,
+    "tp": 0.09,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:50:20.764119+07:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 579.87,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:50:24.140781+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 0.0,
+    "sl": 0.0,
+    "tp": 0.0,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:50:27.398868+07:00",
+    "pair": "ADAUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.16,
+    "sl": 0.16,
+    "tp": 0.17,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:50:30.754300+07:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.75,
+    "sl": 0.73,
+    "tp": 0.8,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:50:34.083038+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 6.774,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T10:36:05.664697+07:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 61601.4,
+    "sl": 59753.36,
+    "tp": 65297.48,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T10:36:08.924906+07:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1594.33,
+    "sl": 1546.5,
+    "tp": 1689.99,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T10:36:12.508379+07:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 63.77,
+    "sl": 61.86,
+    "tp": 67.6,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T10:36:15.759144+07:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.12,
+    "sl": 1.09,
+    "tp": 1.19,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T10:36:19.085499+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08,
+    "sl": 0.08,
+    "tp": 0.09,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T10:36:22.367630+07:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 580.6,
+    "sl": 563.18,
+    "tp": 615.44,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T10:36:25.738708+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.0,
+    "sl": 0.0,
+    "tp": 0.0,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T10:36:29.054907+07:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1613,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T10:36:32.443061+07:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7493,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T10:36:35.898979+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.758,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T11:22:01.005938+07:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 61573.0,
+    "sl": 59725.81,
+    "tp": 65267.38,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T11:22:04.230307+07:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1588.33,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T11:22:07.296322+07:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 63.51,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T11:22:10.548633+07:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.112,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T11:22:13.550388+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08312,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T11:22:16.833577+07:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 579.17,
+    "sl": 561.79,
+    "tp": 613.92,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T11:22:20.222344+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0027196,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T11:22:23.501168+07:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1602,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T11:22:26.722450+07:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7452,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T11:22:29.919169+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.708,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T12:07:50.659870+07:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 61781.3,
+    "sl": 59927.86,
+    "tp": 65488.18,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:07:53.880063+07:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1593.86,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:07:57.012085+07:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 63.94,
+    "sl": 62.02,
+    "tp": 67.78,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:08:00.403147+07:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.1197,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:08:03.724445+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08,
+    "sl": 0.08,
+    "tp": 0.09,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:08:07.076670+07:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 582.52,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:08:10.640452+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0027361,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:08:13.965208+07:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1609,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T12:08:17.323071+07:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7491,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:08:20.576734+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.755,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:53:41.163153+07:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 61707.6,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:53:44.391627+07:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1603.52,
+    "sl": 1555.41,
+    "tp": 1699.73,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:53:47.749102+07:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 64.17,
+    "sl": 62.24,
+    "tp": 68.02,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:53:51.398788+07:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.1193,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:53:54.598747+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08387,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:53:58.069223+07:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 585.53,
+    "sl": 567.96,
+    "tp": 620.66,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:54:01.518188+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.0,
+    "sl": 0.0,
+    "tp": 0.0,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:54:04.836397+07:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1611,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T12:54:08.151982+07:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7489,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T12:54:11.624617+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.765,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T13:39:33.292092+07:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 62052.9,
+    "sl": 60191.31,
+    "tp": 65776.07,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T13:39:36.771763+07:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1614.58,
+    "sl": 1566.14,
+    "tp": 1711.45,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T13:39:39.835469+07:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 64.82,
+    "sl": 62.88,
+    "tp": 68.71,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T13:39:43.352350+07:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.13,
+    "sl": 1.09,
+    "tp": 1.19,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T13:39:46.431324+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08,
+    "sl": 0.08,
+    "tp": 0.09,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T13:39:49.871085+07:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 587.67,
+    "sl": 570.04,
+    "tp": 622.93,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T13:39:53.231683+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.0,
+    "sl": 0.0,
+    "tp": 0.0,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T13:39:56.551071+07:00",
+    "pair": "ADAUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.16,
+    "sl": 0.16,
+    "tp": 0.17,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T13:39:59.989933+07:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.75,
+    "sl": 0.73,
+    "tp": 0.8,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T13:40:03.353064+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 6.81,
+    "sl": 6.61,
+    "tp": 7.22,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T14:25:39.231590+07:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 62197.9,
+    "sl": 60331.96,
+    "tp": 65929.77,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T14:25:42.516788+07:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1610.63,
+    "sl": 1562.31,
+    "tp": 1707.27,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T14:25:45.968748+07:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 64.88,
+    "sl": 62.93,
+    "tp": 68.77,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T14:25:49.221147+07:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.13,
+    "sl": 1.09,
+    "tp": 1.2,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T14:25:52.516910+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08,
+    "sl": 0.08,
+    "tp": 0.09,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T14:25:55.844146+07:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 589.58,
+    "sl": 571.89,
+    "tp": 624.95,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T14:25:59.223453+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.0,
+    "sl": 0.0,
+    "tp": 0.0,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T14:26:02.827049+07:00",
+    "pair": "ADAUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.16,
+    "sl": 0.16,
+    "tp": 0.17,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T14:26:06.085348+07:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7545,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T14:26:09.395812+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 6.8,
+    "sl": 6.59,
+    "tp": 7.2,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:11:34.798368+07:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 62288.6,
+    "sl": 60419.94,
+    "tp": 66025.92,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:11:38.034214+07:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1610.92,
+    "sl": 1562.59,
+    "tp": 1707.58,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:11:41.661186+07:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 64.55,
+    "sl": 62.61,
+    "tp": 68.42,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:11:44.983582+07:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.13,
+    "sl": 1.1,
+    "tp": 1.2,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:11:48.032817+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08,
+    "sl": 0.08,
+    "tp": 0.09,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:11:51.475079+07:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 587.99,
+    "sl": 570.35,
+    "tp": 623.27,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:11:54.745739+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0027528,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:11:58.011930+07:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1619,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:12:01.271754+07:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7492,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T15:12:04.551342+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 6.791,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:57:30.155763+07:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 62780.1,
+    "sl": 60896.7,
+    "tp": 66546.91,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:57:33.609381+07:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1635.57,
+    "sl": 1586.5,
+    "tp": 1733.7,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:57:36.754228+07:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 65.62,
+    "sl": 63.65,
+    "tp": 69.56,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:57:40.032414+07:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.15,
+    "sl": 1.11,
+    "tp": 1.22,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:57:43.037401+07:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.09,
+    "sl": 0.08,
+    "tp": 0.09,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:57:46.713144+07:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 597.82,
+    "sl": 579.89,
+    "tp": 633.69,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:57:50.076898+07:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.0,
+    "sl": 0.0,
+    "tp": 0.0,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:57:53.408597+07:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.76,
+    "sl": 0.73,
+    "tp": 0.8,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:57:56.800495+07:00",
+    "pair": "ADAUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.16,
+    "sl": 0.16,
+    "tp": 0.17,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T15:58:00.117249+07:00",
+    "pair": "AVAXUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 6.84,
+    "sl": 6.64,
+    "tp": 7.25,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T09:08:10.872419+00:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 62829.6,
+    "sl": 60944.712,
+    "tp": 66599.376,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:08:14.334702+00:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1638.72,
+    "sl": 1589.5584,
+    "tp": 1737.0432,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:08:17.603944+00:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 65.87,
+    "sl": 63.8939,
+    "tp": 69.82220000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:08:20.950017+00:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.1651,
+    "sl": 1.130147,
+    "tp": 1.235006,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:08:23.975259+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08562,
+    "sl": 0.0830514,
+    "tp": 0.09075720000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:08:27.404163+00:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 597.58,
+    "sl": 579.6526,
+    "tp": 633.4348000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:08:30.881527+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.0027978,
+    "sl": 0.002713866,
+    "tp": 0.0029656680000000003,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:08:34.235048+00:00",
+    "pair": "ADAUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.1663,
+    "sl": 0.161311,
+    "tp": 0.17627800000000002,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:08:37.365374+00:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.7601,
+    "sl": 0.737297,
+    "tp": 0.805706,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:08:40.710821+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 6.852,
+    "sl": 6.64644,
+    "tp": 7.263120000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:52:13.476276+00:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 62568.2,
+    "sl": 60691.153999999995,
+    "tp": 66322.292,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:52:16.548694+00:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1634.64,
+    "sl": 1585.6008000000002,
+    "tp": 1732.7184000000002,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:52:19.669080+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 65.1,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:52:23.013988+00:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.149,
+    "sl": 1.11453,
+    "tp": 1.21794,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:52:26.036727+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08501,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:52:29.308622+00:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 594.06,
+    "sl": 576.2381999999999,
+    "tp": 629.7035999999999,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:52:32.669197+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.0027734,
+    "sl": 0.002690198,
+    "tp": 0.0029398040000000003,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:52:36.013381+00:00",
+    "pair": "ADAUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.1654,
+    "sl": 0.160438,
+    "tp": 0.175324,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:52:39.334803+00:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.7619,
+    "sl": 0.739043,
+    "tp": 0.807614,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T09:52:42.631494+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 6.791,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T10:38:56.485185+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62318.1,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T10:38:59.720678+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1629.72,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T10:39:02.969603+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 64.66,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T10:39:06.037509+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.135,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T10:39:09.093198+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08437,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T10:39:12.334931+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 591.72,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T10:39:15.751838+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0027557,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T10:39:18.974331+00:00",
+    "pair": "ADAUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.1648,
+    "sl": 0.159856,
+    "tp": 0.174688,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T10:39:22.326796+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7494,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T10:39:25.571432+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.732,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T11:24:49.708177+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62500.0,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T11:24:53.004266+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1628.64,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T11:24:56.118615+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 64.67,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T11:24:59.389062+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.134,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T11:25:02.570581+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08445,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T11:25:05.961678+00:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 594.16,
+    "sl": 576.3352,
+    "tp": 629.8096,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T11:25:09.369046+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.164,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T11:25:12.690420+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0027594,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T11:25:16.047108+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7513,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T11:25:19.397351+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 6.702,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T12:10:54.648748+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 62174.0,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T12:10:57.999871+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1614.61,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:11:01.388009+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 64.21,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:11:04.759038+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.1247,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:11:07.798053+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08375,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:11:11.235124+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 589.72,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:11:14.534413+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1624,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:11:18.016085+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7387,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:11:21.521073+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0027385,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:11:24.873135+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 6.635,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 0,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:56:43.185309+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 61785.6,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T12:56:46.575649+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1616.39,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:56:49.757493+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 64.14,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T12:56:53.079614+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.1221,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T12:56:56.145124+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08368,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 3
+  },
+  {
+    "timestamp": "2026-06-07T12:56:59.501275+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 588.98,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T12:57:02.896796+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.1612,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T12:57:06.385794+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.0027356,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T12:57:09.786385+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7392,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 3
+  },
+  {
+    "timestamp": "2026-06-07T12:57:13.071428+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 6.64,
+    "sl": 6.8392,
+    "tp": 6.241599999999999,
+    "rr": "1:2",
+    "bullish_score": 0,
+    "bearish_score": 5
+  },
+  {
+    "timestamp": "2026-06-07T13:42:40.434951+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 61708.1,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 3
+  },
+  {
+    "timestamp": "2026-06-07T13:42:43.743563+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1617.0,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T13:42:47.208049+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 64.3,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T13:42:50.536376+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.122,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 3
+  },
+  {
+    "timestamp": "2026-06-07T13:42:53.562883+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08377,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T13:42:56.878631+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 588.55,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T13:43:00.276390+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.1614,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T13:43:03.621105+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7425,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T13:43:07.035061+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.0027371,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T13:43:10.522337+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 6.649,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 0,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T14:28:30.972458+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 62033.3,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T14:28:34.324082+00:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1629.17,
+    "sl": 1580.2949,
+    "tp": 1726.9202000000002,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T14:28:37.521103+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 64.88,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T14:28:42.930396+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.1326,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T14:28:46.287479+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08459,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T14:28:49.780795+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 591.91,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T14:28:53.078038+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1634,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T14:28:57.591397+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0027648,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T14:29:01.028086+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.753,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T14:29:04.382011+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 6.735,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T15:14:27.497991+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 61762.6,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 3
+  },
+  {
+    "timestamp": "2026-06-07T15:14:30.983010+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1624.75,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T15:14:34.141217+00:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 64.77,
+    "sl": 62.826899999999995,
+    "tp": 68.6562,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T15:14:37.468497+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.1309,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T15:14:40.991905+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08445,
+    "sl": 0.08191649999999999,
+    "tp": 0.089517,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T15:14:44.350268+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 591.38,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T15:14:47.650643+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1621,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T15:14:51.112472+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.0027566,
+    "sl": 0.002673902,
+    "tp": 0.002921996,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T15:14:54.476787+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7454,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T15:14:57.889700+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 6.696,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T16:00:36.716415+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62076.8,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:00:40.062241+00:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1629.59,
+    "sl": 1580.7023,
+    "tp": 1727.3654,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:00:43.150630+00:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 64.96,
+    "sl": 63.011199999999995,
+    "tp": 68.85759999999999,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:00:46.504685+00:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.1344,
+    "sl": 1.100368,
+    "tp": 1.2024640000000002,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:00:49.777243+00:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 592.15,
+    "sl": 574.3855,
+    "tp": 627.679,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:00:52.836417+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08463,
+    "sl": 0.0820911,
+    "tp": 0.0897078,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:00:56.253228+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1622,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T16:00:59.615120+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.0027694,
+    "sl": 0.002686318,
+    "tp": 0.0029355640000000003,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:01:02.877362+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.745,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T16:01:06.122504+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.711,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T16:46:49.239795+00:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 62180.0,
+    "sl": 60314.6,
+    "tp": 65910.8,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:46:52.636604+00:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1629.91,
+    "sl": 1581.0127,
+    "tp": 1727.7046000000003,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:46:55.722647+00:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 65.17,
+    "sl": 63.2149,
+    "tp": 69.0802,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:46:59.084009+00:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.138,
+    "sl": 1.1038599999999998,
+    "tp": 1.20628,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:47:02.344343+00:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 594.81,
+    "sl": 576.9657,
+    "tp": 630.4986,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:47:05.404555+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08485,
+    "sl": 0.08230449999999999,
+    "tp": 0.089941,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:47:08.679682+00:00",
+    "pair": "ADAUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.1625,
+    "sl": 0.157625,
+    "tp": 0.17225000000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:47:12.122299+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7464,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:47:15.540002+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.0027775,
+    "sl": 0.002694175,
+    "tp": 0.00294415,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T16:47:18.873227+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 6.7,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T17:33:10.515278+00:00",
+    "pair": "BTCUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 62254.3,
+    "sl": 60386.671,
+    "tp": 65989.558,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T17:33:13.746772+00:00",
+    "pair": "ETHUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1636.21,
+    "sl": 1587.1237,
+    "tp": 1734.3826000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T17:33:17.588862+00:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 65.44,
+    "sl": 63.4768,
+    "tp": 69.3664,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T17:33:20.824703+00:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.1435,
+    "sl": 1.109195,
+    "tp": 1.21211,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T17:33:24.549282+00:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 596.11,
+    "sl": 578.2267,
+    "tp": 631.8766,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T17:33:27.613443+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.08508,
+    "sl": 0.0825276,
+    "tp": 0.09018480000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T17:33:30.911177+00:00",
+    "pair": "ADAUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.1636,
+    "sl": 0.158692,
+    "tp": 0.17341600000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T17:33:34.150477+00:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.7488,
+    "sl": 0.726336,
+    "tp": 0.7937280000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T17:33:37.469504+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.002787,
+    "sl": 0.00270339,
+    "tp": 0.00295422,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T17:33:40.750677+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 6.723,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 0
+  },
+  {
+    "timestamp": "2026-06-07T18:19:33.000729+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62145.7,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:19:36.283320+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1629.41,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:19:39.453879+00:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 65.26,
+    "sl": 63.302200000000006,
+    "tp": 69.1756,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:19:42.888956+00:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.1466,
+    "sl": 1.1122020000000001,
+    "tp": 1.2153960000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:19:46.515379+00:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 596.92,
+    "sl": 579.0124,
+    "tp": 632.7352,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:19:49.513285+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08475,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:19:52.749851+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1628,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:19:56.158281+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7479,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:19:59.514904+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0027769,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:20:02.954260+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.686,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T18:30:14.804603+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62196.1,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 2,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:30:19.578950+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1632.0,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:30:24.355120+00:00",
+    "pair": "SOLUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 65.37,
+    "sl": 63.4089,
+    "tp": 69.29220000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:30:28.931324+00:00",
+    "pair": "XRPUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 1.1461,
+    "sl": 1.1117169999999998,
+    "tp": 1.214866,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:30:33.539030+00:00",
+    "pair": "BNBUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 597.71,
+    "sl": 579.7787000000001,
+    "tp": 633.5726000000001,
+    "rr": "1:2",
+    "bullish_score": 4,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:30:38.210689+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08476,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:30:42.891338+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1624,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T18:30:47.450901+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7485,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  },
+  {
+    "timestamp": "2026-06-07T18:30:52.539429+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0027735,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 3,
+    "bearish_score": 1
+  },
+  {
+    "timestamp": "2026-06-07T18:30:57.068441+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ],
+      "data_sufficient": true
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.691,
+    "sl": null,
+    "tp": null,
+    "rr": "1:2",
+    "bullish_score": 1,
+    "bearish_score": 2
+  }
+]

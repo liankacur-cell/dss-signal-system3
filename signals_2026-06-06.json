@@ -1,0 +1,3122 @@
+[
+  {
+    "timestamp": "2026-06-06T20:01:53.543767+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 60608.0,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T20:01:58.704327+00:00",
+    "pair": "ETHUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 1555.32,
+    "sl": 1601.9796,
+    "tp": 1462.0008,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T20:02:03.423006+00:00",
+    "pair": "SOLUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 61.64,
+    "sl": 63.4892,
+    "tp": 57.9416,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T20:02:08.223547+00:00",
+    "pair": "XRPUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 1.0798,
+    "sl": 1.1122,
+    "tp": 1.015,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T20:02:12.280775+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 0.0807,
+    "sl": 0.0831,
+    "tp": 0.0758,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T20:02:16.667110+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 574.0,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T20:02:21.092258+00:00",
+    "pair": "ADAUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 0.1567,
+    "sl": 0.1614,
+    "tp": 0.1473,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T20:02:25.485453+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.704,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T20:02:29.784795+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 6.606,
+    "sl": 6.8042,
+    "tp": 6.2096,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T20:02:34.357334+00:00",
+    "pair": "INJUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 5.021,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:30:12.444951+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60859.0,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:30:15.814046+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1560.57,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:30:19.371548+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62.1,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:30:22.602188+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.0908,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:30:26.014462+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08126,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:30:29.556056+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 575.86,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:30:32.572301+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.158,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:30:35.952627+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026619,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:30:39.213592+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 0.7112,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:30:42.532275+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.635,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:38:12.709729+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60831.2,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:38:16.161929+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1561.66,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:38:19.831450+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62.17,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:38:23.100680+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.0906,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:38:26.524095+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08149,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:38:29.772972+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 576.38,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:38:33.116427+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.158,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:38:36.503424+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026669,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:38:39.735989+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.7114,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:38:42.971900+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.655,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:41:57.708472+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60827.0,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:42:01.107592+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1560.98,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:42:04.207411+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62.09,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:42:07.475857+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1.09,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:42:10.520008+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.08144,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:42:13.805706+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 576.04,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:42:17.038357+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1579,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:42:20.428527+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026647,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:42:23.844167+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.712,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T21:42:27.187773+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.645,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:02:35.362836+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60770.1,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:02:38.566198+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1559.18,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:02:41.605078+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 61.86,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:02:44.658961+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 1.0877,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:02:47.601618+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.08134,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:02:50.804677+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 573.38,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:02:54.126243+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1569,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:02:57.443523+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026601,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:03:00.670552+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.7095,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:03:03.897029+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.624,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:10:38.360898+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60578.5,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:10:41.624985+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1554.46,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:10:44.755733+00:00",
+    "pair": "SOLUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 61.59,
+    "sl": 63.4377,
+    "tp": 57.8946,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:10:48.000127+00:00",
+    "pair": "XRPUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 1.0843,
+    "sl": 1.1168,
+    "tp": 1.0192,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:10:51.031387+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.08124,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:10:54.447427+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 572.43,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:10:57.677458+00:00",
+    "pair": "ADAUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 0.1557,
+    "sl": 0.1604,
+    "tp": 0.1464,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:11:01.058696+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026491,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:11:04.437427+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.7078,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:11:07.753452+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 6.597,
+    "sl": 6.7949,
+    "tp": 6.2012,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:16:10.637347+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60598.8,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:16:14.098595+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1555.13,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:16:17.089975+00:00",
+    "pair": "SOLUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 61.65,
+    "sl": 63.4995,
+    "tp": 57.951,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:16:20.345201+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 1.0846,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:16:23.309462+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.08137,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:16:26.490917+00:00",
+    "pair": "BNBUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 572.1,
+    "sl": 589.263,
+    "tp": 537.774,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:16:29.745742+00:00",
+    "pair": "ADAUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 0.1562,
+    "sl": 0.1609,
+    "tp": 0.1468,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:16:33.016018+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026543,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:16:36.348571+00:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 0.7088,
+    "sl": 0.6875,
+    "tp": 0.7513,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:16:39.566322+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.602,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:19:56.382439+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60716.4,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:19:59.622247+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1560.51,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:20:02.791453+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 61.94,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:20:06.052458+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 1.0865,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:20:09.015050+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.08159,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:20:12.259859+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 573.54,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:20:15.535136+00:00",
+    "pair": "ADAUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 0.1568,
+    "sl": 0.1615,
+    "tp": 0.1474,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:20:18.980498+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026635,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:20:22.150796+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.7117,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:20:25.313592+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.633,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:29:31.864519+00:00",
+    "pair": "BTCUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 60403.3,
+    "sl": 62215.399,
+    "tp": 56779.102,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:29:36.091755+00:00",
+    "pair": "ETHUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 1551.3,
+    "sl": 1597.839,
+    "tp": 1458.222,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:29:39.632963+00:00",
+    "pair": "SOLUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 61.44,
+    "sl": 63.2832,
+    "tp": 57.7536,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:29:43.412896+00:00",
+    "pair": "XRPUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 1.0812,
+    "sl": 1.1136,
+    "tp": 1.0163,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:29:46.864260+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.08116,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:29:50.513058+00:00",
+    "pair": "BNBUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 571.81,
+    "sl": 588.9643,
+    "tp": 537.5014,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:29:54.322668+00:00",
+    "pair": "ADAUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 0.1559,
+    "sl": 0.1606,
+    "tp": 0.1465,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:29:58.141887+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026513,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:30:01.963342+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.7099,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:30:05.641219+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 6.6,
+    "sl": 6.798,
+    "tp": 6.204,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:37:56.038018+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60542.6,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:38:14.826057+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1556.05,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:38:19.317516+00:00",
+    "pair": "SOLUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 61.65,
+    "sl": 63.4995,
+    "tp": 57.951,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:38:22.913329+00:00",
+    "pair": "XRPUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 1.084,
+    "sl": 1.1165,
+    "tp": 1.019,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:38:26.633082+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.08125,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:38:30.411079+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 573.09,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:38:33.847529+00:00",
+    "pair": "ADAUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "SHORT",
+    "entry": 0.1563,
+    "sl": 0.161,
+    "tp": 0.1469,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:38:37.721295+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.0026584,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:38:41.462313+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.7114,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:38:45.181589+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.619,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:54:39.952485+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60673.8,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:54:50.822804+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1560.81,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:54:58.902420+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 61.83,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:55:02.742254+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 1.0887,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:55:06.265909+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.08153,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:55:09.985407+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 573.95,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:55:13.674021+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.1566,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:55:17.631399+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 0.0026683,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:55:21.490676+00:00",
+    "pair": "SUIUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 0.7138,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T22:55:25.251149+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.651,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:10:16.078434+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 60693.9,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:10:19.287101+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1562.19,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:10:22.363784+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62.01,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:10:25.779293+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 1.0899,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:10:28.976609+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.08157,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:10:32.546627+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 574.72,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:10:35.866530+00:00",
+    "pair": "ADAUSDT",
+    "signal": "SHORT",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "WEAK",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BEARISH POSITION",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "SHORT",
+    "entry": 0.1563,
+    "sl": 0.161,
+    "tp": 0.1469,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:10:39.253607+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.0026685,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:10:42.546153+00:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 0.7145,
+    "sl": 0.6931,
+    "tp": 0.7574,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:10:45.776743+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 6.659,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:56:04.085707+00:00",
+    "pair": "BTCUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 60886.0,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:56:07.486466+00:00",
+    "pair": "ETHUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 1568.39,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:56:11.063123+00:00",
+    "pair": "SOLUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 62.2,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:56:14.268112+00:00",
+    "pair": "XRPUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 1.0932,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:56:17.302737+00:00",
+    "pair": "DOGEUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "LONG",
+    "entry": 0.0819,
+    "sl": 0.0794,
+    "tp": 0.0868,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:56:20.880946+00:00",
+    "pair": "BNBUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BEARISH",
+      "momentum": "NEUTRAL",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "NO TRADE",
+    "entry": 575.19,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:56:24.228107+00:00",
+    "pair": "ADAUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 0.1573,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:56:27.557824+00:00",
+    "pair": "1000PEPEUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "MEDIUM",
+    "result": "NO TRADE",
+    "entry": 0.0026827,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:56:30.913786+00:00",
+    "pair": "SUIUSDT",
+    "signal": "LONG",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "BULLISH",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "BULLISH POSITION",
+    "market_flow": "AKUMULASI",
+    "squeeze_risk": "HIGH",
+    "result": "LONG",
+    "entry": 0.7192,
+    "sl": 0.6976,
+    "tp": 0.7624,
+    "rr": "1:2"
+  },
+  {
+    "timestamp": "2026-06-06T23:56:34.238522+00:00",
+    "pair": "AVAXUSDT",
+    "signal": "NO TRADE",
+    "market_environment": "NEUTRAL",
+    "pair_analysis": {
+      "trend": "SIDEWAYS",
+      "momentum": "STRONG",
+      "timeframes": [
+        "5m",
+        "15m",
+        "30m",
+        "1h"
+      ]
+    },
+    "derivatives": "NEUTRAL",
+    "market_flow": "DISTRIBUSI",
+    "squeeze_risk": "LOW",
+    "result": "NO TRADE",
+    "entry": 6.673,
+    "sl": 0,
+    "tp": 0,
+    "rr": "1:2"
+  }
+]
